@@ -1,4 +1,32 @@
-## PEV
+# PEV
+ 
+### VESCs
+[Community maintained list of VESCs](https://forum.esk8.news/t/escs-based-on-the-vesc/60389)
+
+### Screens and Displays
+
+- DAVEGA - [DAVEGA X](https://shop.davega.eu/?product=davega-x)
+- Trampa Boards - [LCD Battery Display](https://trampaboards.com/lcd-battery-display-with-carbon-fibre-mounting-plate--screws-p-26183.html)
+
+### Remotes
+
+- Trampa Boards -  [The Wand](https://trampaboards.com/trampa-wand-remote-control--vesc-based-remote-gives-all-the-control-you-could-ever-wish-for-p-26992.html)
+- Spintend - [Uni1 V2](https://spintend.com/products/2-4ghz-screen-remote-uni1-compatible-with-vesc-for-diy-electric-skateboard)
+- Boundmotor -  [Blade](https://boundmotor.com/product/remote/)
+- BKB -  [BKB Voyager](https://buildkitboards.com/products/bkb-voyager)
+
+### BMSs
+
+- ENNOID -[GEN1](https://www.ennoid.me/bms/gen-1)
+- ENNOID -[XLITE](https://www.ennoid.me/bms/xlite)
+- LLT Power -[SP Smart BMSs](https://www.lithiumbatterypcb.com/product-category/smart-bms/)
+
+### Cables and Adapters
+
+### Miscellaneous Parts
+
+### Software
+
 
 You can use the [editor on GitHub](https://github.com/graycatgrayhat/PEV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
