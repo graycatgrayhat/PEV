@@ -1,4 +1,4 @@
-# PEV
+# PEV Controllers, Screens, Remotes, BMSs, Adapters, and Other parts.
  
 ### Controllers
 - [Community maintained list of VESCs](https://forum.esk8.news/t/escs-based-on-the-vesc/60389)
@@ -44,3 +44,7 @@
 ### Software
 - [Metr App](https://metr.at/) - [metr-guide](https://rpasichnyk.github.io/metr-guide/)
 - DRI (Derelict Robot Industries) - [FreeSK8 Mobile App](https://forum.freesk8.org/t/freesk8-mobile-app-android-ios/327)
+
+Primary list is maintaned on GitHub, feel free to commnent on the reletive post(this one) with anything worht adding.  
+#### Note to consistency and standards, and general goal of this list.
+- Well most parts can be purchesed from vender market places ie Aliexpress, I have generaly listed the direct vender website or fourm post.  This is to maintain long term link integrety and lessen confusion.
