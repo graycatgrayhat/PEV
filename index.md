@@ -29,8 +29,10 @@
 
 ### Miscellaneous Parts
 
-- Spintend - [Ewheel ADC Adapter](https://spintend.com/collections/diy-electric-scooter-parts/products/e-wheel-adapter-for-safely-applying-vesc-in-ebike-electric-scooter-in-adc-mode) Used for adapting ebike brakes, throttle input is protected by filtering and pull-down to ensure the stability of the signal.
+- Spintend - [Ewheel ADC Adapter](https://spintend.com/collections/diy-electric-scooter-parts/products/e-wheel-adapter-for-safely-applying-vesc-in-ebike-electric-scooter-in-adc-mode)
+  - <sub>Used for adapting ebike brakes, throttle input is protected by filtering and pull-down to ensure the stability of the signal.</sub>
 - Spintend - [Over Voltage Protector](https://spintend.com/collections/diy-electric-scooter-parts/products/over-voltage-protector-rehostatic-braking-resistor-module)
+  - <sub>The OVP or the rheostatic brake module is designed to deal with the voltage spike when the ESC(based on vesc) working in brake mode.</sub>
 - Spintend - [2.4Ghz Bluetooth Module](https://spintend.com/collections/diy-electric-scooter-parts/products/2-4ghz-bluetooth-module-based-on-nrf51-vesc-project)
 - Build Kit Boards - [VESC Bluetooth Adapter](https://buildkitboards.com/collections/kit-accessories/products/vesc-bluetooth-adapter)
 - Boundmotor - [VESC Bluetooth Module](https://boundmotor.com/product/vesc-bluetooth-module/)
@@ -50,3 +52,5 @@ The primary list is maintained on GitHub, feel free to comment on the relative p
 - Well most parts can be purchased from vendor marketplaces i.e. AliExpress, I have generally listed the direct vendor website or forum post.  This is to maintain long term link integrity and lessen confusion.
 - Parts are listed with no detail aside from the part name.  Adding too much detail would increase the time and power needed to maintain the list.
 - If a better list is being maintained elsewhere please let us know, like the VESC list it is better to out source then have two lists.
+
+
