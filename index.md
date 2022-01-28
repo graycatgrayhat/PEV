@@ -45,6 +45,8 @@
 - [Metr App](https://metr.at/) - [metr-guide](https://rpasichnyk.github.io/metr-guide/)
 - DRI (Derelict Robot Industries) - [FreeSK8 Mobile App](https://forum.freesk8.org/t/freesk8-mobile-app-android-ios/327)
 
-Primary list is maintaned on GitHub, feel free to commnent on the reletive post(this one) with anything worht adding.  
+The primary list is maintained on GitHub, feel free to comment on the relative post(this one) with anything worth adding.  
 #### Note to consistency and standards, and general goal of this list.
-- Well most parts can be purchesed from vender market places ie Aliexpress, I have generaly listed the direct vender website or fourm post.  This is to maintain long term link integrety and lessen confusion.
+- Well most parts can be purchased from vendor marketplaces i.e. AliExpress, I have generally listed the direct vendor website or forum post.  This is to maintain long term link integrity and lessen confusion.
+- Parts are listed with no detail aside from the part name.  Adding too much detail would increase the time and power needed to maintain the list.
+- If a better list is being maintained elsewhere please let us know, like the VESC list it is better to out source then have two lists.
