@@ -17,9 +17,9 @@
 
 ### BMSs
 
-- ENNOID -[GEN1](https://www.ennoid.me/bms/gen-1)
-- ENNOID -[XLITE](https://www.ennoid.me/bms/xlite)
-- LLT Power -[SP Smart BMSs](https://www.lithiumbatterypcb.com/product-category/smart-bms/)
+- ENNOID - [GEN1](https://www.ennoid.me/bms/gen-1)
+- ENNOID - [XLITE](https://www.ennoid.me/bms/xlite)
+- LLT Power - [SP Smart BMSs](https://www.lithiumbatterypcb.com/product-category/smart-bms/)
 
 ### Cables and Adapters
 
@@ -44,4 +44,3 @@
 ### Software
 - [Metr App](https://metr.at/) - [metr-guide](https://rpasichnyk.github.io/metr-guide/)
 - DRI (Derelict Robot Industries) - [FreeSK8 Mobile App](https://forum.freesk8.org/t/freesk8-mobile-app-android-ios/327)
-
