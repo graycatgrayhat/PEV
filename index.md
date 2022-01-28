@@ -1,6 +1,6 @@
 # PEV
  
-### VESCs
+### Controllers
 - [Community maintained list of VESCs](https://forum.esk8.news/t/escs-based-on-the-vesc/60389)
 
 ### Screens and Displays
