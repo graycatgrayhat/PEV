@@ -23,7 +23,9 @@
 
 ### Cables and Adapters
 
-- uSplit - [VESC UART Splitter](https://solidcircuits.net/product/usplit/) 
+- uSplit - [VESC UART Splitter](https://solidcircuits.net/product/usplit/)
+- Flipsky - [Anti Spark Switch](https://flipsky.net/collections/anti-spark-switch/products/anti-spark-switch-smart-280a-for-electric-skateboard-ebike-scooter-robots)
+  - <sub>The “smart enhanced” one is the reliable one based off @Gamer43’s design)</sub>
 - makerX - [Anti Spark Switch](https://www.makerx-tech.com/collections/accessories-1/products/anti-spark-switch)
 - Spintend - [Ceramic fuse box](https://spintend.com/collections/diy-electric-scooter-parts/products/ceramic-fuse-box-30a-for-high-current-protection)
 
