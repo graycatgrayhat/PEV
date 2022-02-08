@@ -15,6 +15,7 @@ Cons:
 - Larger then DC jacks or two pin ports.
 
 Information:
+Generic quality XLR plugs don't have very good current handling for their size, and will often melt/ distort when used above 4 amps. Higher quality XLR plugs like the Neutrik XX brand are rated for 16 amps, which makes it an excellent choice for high current charging.
 
 ### DC Jack
 
@@ -25,6 +26,19 @@ Pros:
 
 Cons:
 - Too common, just becasue the port fits doesnt always mean it should.
+- Lower constant amp ratings.
+
+Information:
+DC barrel connector has been a standard for powering electronic devices with low voltage DC in consumer electronics, and has found its way as a commonly used plug for the charging port of frame mounted batteries. Can be easy used for lights, DC-DC converters, and other accessories.
+
+### GX16-3P
+
+Pros:
+- Very common across LEV, esk8 and eleltric scootrers.
+- Large varaity of port mounts and convers in water proof, locking and hardended types
+
+Cons:
+- Generally protrudes from the mounted location.
 - Lower constant amp ratings.
 
 Information:
@@ -40,18 +54,6 @@ Cons:
 - More expensive than other connection types.
 - Magnets can attract metal object and debris.
 - Proprietary standard.
-
-Information:
-
-### GX16-3P
-
-Pros:
-- Very common across LEV, esk8 and eleltric scootrers.
-- Large varaity of port mounts and convers in water proof, locking and hardended types
-
-Cons:
-- Generally protrudes from the mounted location.
-- Lower constant amp ratings.
 
 Information:
 
